@@ -1,0 +1,10 @@
+query GetProducts {
+  schematech1_product_list {
+    id
+    name
+    price
+    details
+    image
+    available
+  }
+}
